@@ -13,6 +13,7 @@
 		C71C0A4B29440C8F0038A08D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C71C0A4929440C8F0038A08D /* Main.storyboard */; };
 		C71C0A4D29440C900038A08D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C71C0A4C29440C900038A08D /* Assets.xcassets */; };
 		C71C0A5029440C900038A08D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C71C0A4E29440C900038A08D /* LaunchScreen.storyboard */; };
+		C71C0A5829440C980038A08D /* ViewThatFits.swift in Sources */ = {isa = PBXBuildFile; fileRef = C71C0A5729440C980038A08D /* ViewThatFits.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C71C0A4C29440C900038A08D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C71C0A4F29440C900038A08D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C71C0A5129440C900038A08D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C71C0A5729440C980038A08D /* ViewThatFits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewThatFits.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C71C0A4329440C8F0038A08D /* AppDelegate.swift */,
 				C71C0A4529440C8F0038A08D /* SceneDelegate.swift */,
 				C71C0A4729440C8F0038A08D /* ViewController.swift */,
+				C71C0A5729440C980038A08D /* ViewThatFits.swift */,
 				C71C0A4929440C8F0038A08D /* Main.storyboard */,
 				C71C0A4C29440C900038A08D /* Assets.xcassets */,
 				C71C0A4E29440C900038A08D /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				C71C0A4829440C8F0038A08D /* ViewController.swift in Sources */,
 				C71C0A4429440C8F0038A08D /* AppDelegate.swift in Sources */,
 				C71C0A4629440C8F0038A08D /* SceneDelegate.swift in Sources */,
+				C71C0A5829440C980038A08D /* ViewThatFits.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
