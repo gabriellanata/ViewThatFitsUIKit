@@ -12,8 +12,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
         // CONTAINER
-        // We create a gray container view that we can dynamically change in width. We could have been set
-        // the constraints directly on viewThatFits, but this makes it easier to visualize.
+        // We create a gray container view that we can dynamically change in width. This is used to limit the
+        // available width of the ViewThatFits component later. We could have set the constraints directly
+        // on viewThatFits, but this makes it easier to visualize.
 
         let someContainer = UIView()
         someContainer.backgroundColor = UIColor.lightGray
